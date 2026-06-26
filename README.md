@@ -34,7 +34,7 @@ The Blazor Circular Gauge is a powerful visualization component for displaying m
 
 ```bash
 git clone https://github.com/SyncfusionExamples/how-to-customize-the-blazor-circular-gauge-component.git
-cd how-to-customize-the-blazor-circular-gauge-component/CustomCircularGaugeSample
+cd how-to-customize-the-blazor-circular-gauge-component
 ```
 
 ### Run with Visual Studio
